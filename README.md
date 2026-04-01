@@ -1,17 +1,17 @@
 "# Restaurant Profit Prediction" 
 # 🍽️ Restaurant Profit Prediction System
 
-## 📌 Overview
+##  Overview
 
 This project predicts restaurant profit using Machine Learning based on different business inputs.
 
-## 🎯 Objectives
+##  Objectives
 
 * Predict restaurant profit
 * Help improve business decisions
 * Analyze financial performance
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -19,11 +19,11 @@ This project predicts restaurant profit using Machine Learning based on differen
 * Scikit-learn
 * Matplotlib
 
-## 📁 Dataset
+##  Dataset
 
 restaurant_profit_data.csv
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install libraries:
    pip install pandas numpy scikit-learn matplotlib
@@ -36,6 +36,6 @@ restaurant_profit_data.csv
 * Predicted profit
 * Suggestions for improvement
 
-## 👨‍💻 Author
+## doneby
 
 Sathvik Achar
